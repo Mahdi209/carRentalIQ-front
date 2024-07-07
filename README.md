@@ -21,6 +21,9 @@ JWT: تم استخدام JSON Web Token (JWT) لإدارة الجلسات وال
 
 
 //////////////////////////////////////////////////////////////
+
+
+
 Your project is a website that aggregates all car rental companies in Iraq into one platform. The goal of the project is to simplify the process of searching for available rental cars from various companies in Iraq and comparing prices and services offered.
 
 Frontend:
